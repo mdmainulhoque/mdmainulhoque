@@ -1,42 +1,62 @@
-<h1 align="center">Hi 👋, I'm Md Mainul Hoque</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Data Analytics Enthusiast | Robotics Developer</h3>
-
----
+# Hi, I'm Md Mainul Hoque 👋
 
 🎓 CSE Student at BGC Trust University Bangladesh
 
-🧠 Currently Learning:
-- Machine Learning
-- Data Analytics
-- Deep Learning
-- Computer Vision
+🧠 Aspiring Machine Learning Engineer
 
-🏆 Achievement:
-- WICE Honorable Mention
-- International Round Nominee
+📊 Data Analytics Enthusiast
 
-🚀 Featured Projects:
-- BreathLink
-- NextClass
-- Smart Blind Stick
+🤖 Robotics & IoT Developer
+
+🏆 WICE Honorable Mention Recipient
+
+---
+
+## 🚀 About Me
+
+- Currently learning Machine Learning and Data Analytics
+- Interested in AI, Computer Vision and IoT Systems
+- Building real-world projects to strengthen my engineering skills
+- Passionate about solving practical problems through technology
 
 ---
 
 ## 💻 Skills
 
+### Programming
 - Python
 - C
 - C++
-- SQL
+
+### Data & AI
 - Pandas
 - NumPy
 - Scikit-Learn
-- Git & GitHub
+- SQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## 🎯 Goal
+## 📌 Featured Projects
 
-To become a Machine Learning Engineer and build AI solutions that solve real-world problems.
+### BreathLink
+A breath-controlled smart assistive IoT system for accessibility and biometric authentication.
 
-📫 Email: Tahsin44976@gmail.com
+### NextClass
+A smart university routine and student management platform.
+
+### Smart Blind Stick
+An IoT-based assistive solution for visually impaired individuals.
+
+---
+
+## 🎯 Career Goal
+
+To become a Machine Learning Engineer and build impactful AI solutions that solve real-world problems.
+
+📫 Contact: Tahsin44976@gmail.com
