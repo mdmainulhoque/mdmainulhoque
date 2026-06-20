@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Mainul Hoque</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Data Analytics Enthusiast | Robotics Developer</h3>
 
-<!--
-**mdmainulhoque/mdmainulhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 CSE Student at BGC Trust University Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Learning:
+- Machine Learning
+- Data Analytics
+- Deep Learning
+- Computer Vision
+
+🏆 Achievement:
+- WICE Honorable Mention
+- International Round Nominee
+
+🚀 Featured Projects:
+- BreathLink
+- NextClass
+- Smart Blind Stick
+
+---
+
+## 💻 Skills
+
+- Python
+- C
+- C++
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- Git & GitHub
+
+---
+
+## 🎯 Goal
+
+To become a Machine Learning Engineer and build AI solutions that solve real-world problems.
+
+📫 Email: Tahsin44976@gmail.com
